@@ -1,0 +1,11 @@
+Git Hub:
+
+Let learn Git Hub
+
+1.Create a UserName and Password
+2.Login with Username and password
+3.Create a New repository with Suitable name to Project
+4.Select Repository to be public or Private
+5.Add readMe File to give description more about Project.
+
+6. Add your file to repository it can be zip file,excel,text or PDF
