@@ -16,4 +16,4 @@ Let learn Git Hub
 10 list 
 a.Merge
 b.Avoid conflict
-c.Pull
+c.Avoid Clone
