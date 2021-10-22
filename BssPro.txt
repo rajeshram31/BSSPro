@@ -9,3 +9,5 @@ Let learn Git Hub
 5.Add readMe File to give description more about Project.
 
 6. Add your file to repository it can be zip file,excel,text or PDF
+
+7.Edit the file and edit any thing in added file and commit
