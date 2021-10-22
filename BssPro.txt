@@ -15,5 +15,5 @@ Let learn Git Hub
 9.Newfeature1 will have new features going to be added in future
 10 list 
 a.Merge
-b.pull
-c.Avoid conflict
+b.Avoid conflict
+c.Pull
